@@ -1,0 +1,26 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "The simplest of express apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdcoreSteve/simple-express-app.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Steve Smith",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NerdcoreSteve/simple-express-app/issues"
+  },
+  "homepage": "https://github.com/NerdcoreSteve/simple-express-app#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
